@@ -1,5 +1,4 @@
-{
-    "products": [
+[
         {
             "id": 1,
             "img": "https://i.postimg.cc/c4j7Rq5L/kits.webp",
@@ -58,4 +57,3 @@
           }
         
     ]
-}
