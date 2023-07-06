@@ -1,15 +1,15 @@
 { "projects": [
     {
         "id": 1,
-        "img": "screenshot",
+        "img": "https://i.postimg.cc/PxF8hxxd/gamesring.png",
         "desc": "javascript end of module project",
         "name": "gamesring",
-        "netlify": "https://github.com/Del1rius/js_eomp.git",
-        "github": "https://gamesring.netlify.app"
+        "netlify": "https://gamesring.netlify.app",
+        "github": "https://github.com/Del1rius/js_eomp.git"
     },
     {
         "id": 2,
-        "img": "screenshot",
+        "img": "https://i.postimg.cc/FK48vyCV/calculator.png",
         "desc": "a calculator app using javascript",
         "name": "calculator-app",
         "netlify": "https://timothys-calculator.netlify.app",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "img": "screenshot",
+        "img": "https://i.postimg.cc/6Q80Dytf/bmi-calculator.png",
         "desc": "a calculator to get your BMI",
         "name": "bmi-calculator-app",
         "netlify": "https://timothys-bmi-calculator.netlify.app",
