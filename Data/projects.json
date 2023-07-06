@@ -1,7 +1,7 @@
-[
+{ "projects": [
     {
         "id": 1,
-        "img": "link",
+        "img": "screenshot",
         "desc": "javascript end of module project",
         "name": "gamesring",
         "netlify": "https://github.com/Del1rius/js_eomp.git",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "link": "link",
+        "img": "screenshot",
         "desc": "a calculator app using javascript",
         "name": "calculator-app",
         "netlify": "https://timothys-calculator.netlify.app",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "img": "link",
+        "img": "screenshot",
         "desc": "a calculator to get your BMI",
         "name": "bmi-calculator-app",
         "netlify": "https://timothys-bmi-calculator.netlify.app",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "img": "link",
+        "img": "screenshot",
         "desc": "a temperature app to convert between celsius and fahrenheit",
         "name": "temperature-converter-app",
         "netlify": "https://timothys-temp-converter.netlify.app",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "img": "link",
+        "img": "screenshot",
         "desc": "an app to make a list of what to do",
         "name": "to-do-list-app",
         "netlify": "https://timothys-todo-app.netlify.app",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "img": "link",
+        "img": "screenshot",
         "desc": "an exercise to teach us array methods",
         "name": "array-methods-exercise",
         "netlify": "https://group-array-exercise.netlify.app",
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "img": "link",
+        "img": "screenshot",
         "desc": "a group exercise to show us how to use localStorage",
         "name": "group-exercise-store",
         "netlify": "https://group-ecommerce-site.netlify.app",
@@ -57,7 +57,7 @@
     },
     {
         "id": 8,
-        "img": "link",
+        "img": "screenshot",
         "desc": "an attempt to clone the alienware store",
         "name": "alienware-store",
         "netlify": "https://timothys-alienware-store.netlify.app",
@@ -65,10 +65,11 @@
     },
     {
         "id": 9,
-        "img": "link",
+        "img": "screenshot",
         "desc": "something goes here",
         "name": "bootstrap-portfolio",
         "netlify": "https://timothybarrys-portfolio.netlify.app",
         "github": "https://github.com/Del1rius/portfolio.git"
     }
 ]
+}
