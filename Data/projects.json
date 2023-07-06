@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": "link",
+        "desc": "javascript end of module project",
+        "name": "gamesring",
+        "netlify": "https://github.com/Del1rius/js_eomp.git",
+        "github": "https://gamesring.netlify.app"
+    },
+    {
+        "id": 2,
+        "link": "link",
+        "desc": "a calculator app using javascript",
+        "name": "calculator-app",
+        "netlify": "https://timothys-calculator.netlify.app",
+        "github": "https://github.com/Del1rius/calculator.git"
+    },
+    {
+        "id": 3,
+        "img": "link",
+        "desc": "a calculator to get your BMI",
+        "name": "bmi-calculator-app",
+        "netlify": "https://timothys-bmi-calculator.netlify.app",
+        "github": "https://github.com/Del1rius/bmi-calculator.git"
+    },
+    {
+        "id": 4,
+        "img": "link",
+        "desc": "a temperature app to convert between celsius and fahrenheit",
+        "name": "temperature-converter-app",
+        "netlify": "https://timothys-temp-converter.netlify.app",
+        "github": "https://github.com/Del1rius/temp_converter_2.git"
+    },
+    {
+        "id": 5,
+        "img": "link",
+        "desc": "an app to make a list of what to do",
+        "name": "to-do-list-app",
+        "netlify": "https://timothys-todo-app.netlify.app",
+        "github": "https://github.com/Del1rius/todo-App.git"
+    },
+    {
+        "id": 6,
+        "img": "link",
+        "desc": "an exercise to teach us array methods",
+        "name": "array-methods-exercise",
+        "netlify": "https://group-array-exercise.netlify.app",
+        "github": "https://github.com/Del1rius/oslins-array-exercise.git"
+    },
+    {
+        "id": 7,
+        "img": "link",
+        "desc": "a group exercise to show us how to use localStorage",
+        "name": "group-exercise-store",
+        "netlify": "https://group-ecommerce-site.netlify.app",
+        "github": "https://github.com/Del1rius/group_ecommerce.git"
+    },
+    {
+        "id": 8,
+        "img": "link",
+        "desc": "an attempt to clone the alienware store",
+        "name": "alienware-store",
+        "netlify": "https://timothys-alienware-store.netlify.app",
+        "github": "https://github.com/Del1rius/ecommerce_site.git"
+    },
+    {
+        "id": 9,
+        "img": "link",
+        "desc": "something goes here",
+        "name": "bootstrap-portfolio",
+        "netlify": "https://timothybarrys-portfolio.netlify.app",
+        "github": "https://github.com/Del1rius/portfolio.git"
+    }
+]
