@@ -71,5 +71,44 @@
         "netlify": "https://timothybarrys-portfolio.netlify.app",
         "github": "https://github.com/Del1rius/portfolio.git"
     }
+],
+"testimonials": [
+    {
+        "id": 1,
+        "img": "https://i.postimg.cc/5yB52hc3/C12-Ayesha-Galant-Class1-1.jpg",
+        "testimonial": "",
+        "name": "Ayesha Galant"
+    },
+    {
+        "id": 2,
+        "img": "https://i.postimg.cc/1ts3jCbs/C12-Cheslyn-Herman-1.jpg",
+        "testimonial": "",
+        "name": "Cheslyn Herman"
+    },
+    {
+        "id": 3,
+        "img": "",
+        "testimonial": "",
+        "name": "Ethan Lesar"
+    },
+    {
+        "id": 4,
+        "img": "https://i.postimg.cc/Jz2pvWRD/C12-Luke-Evertson-1.jpg",
+        "testimonial": "",
+        "name": "Luke Evertson"
+    },
+    {
+        "id": 5,
+        "img": "https://i.postimg.cc/0j7QRxg8/Whats-App-Image-2023-07-07-at-2-52-25-PM.jpg",
+        "testimonial": "",
+        "name": "Lyle Kepkey"
+    },
+    {
+        "id": 6,
+        "img": "https://i.postimg.cc/3w4bzS49/C12-Taahirah-Ismail.jpg",
+        "testimonial": "",
+        "name": "Taahirah Ismail"
+    }
+
 ]
 }

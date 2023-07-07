@@ -1,0 +1,114 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/PxF8hxxd/gamesring.png",
+      "desc": "javascript end of module project",
+      "name": "gamesring",
+      "netlify": "https://gamesring.netlify.app",
+      "github": "https://github.com/Del1rius/js_eomp.git"
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/FK48vyCV/calculator.png",
+      "desc": "a calculator app using javascript",
+      "name": "calculator-app",
+      "netlify": "https://timothys-calculator.netlify.app",
+      "github": "https://github.com/Del1rius/calculator.git"
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/6Q80Dytf/bmi-calculator.png",
+      "desc": "a calculator to get your BMI",
+      "name": "bmi-calculator-app",
+      "netlify": "https://timothys-bmi-calculator.netlify.app",
+      "github": "https://github.com/Del1rius/bmi-calculator.git"
+    },
+    {
+      "id": 4,
+      "img": "https://i.postimg.cc/5y9ykM4v/temp-converter.png",
+      "desc": "a temperature app to convert between celsius and fahrenheit",
+      "name": "temperature-converter-app",
+      "netlify": "https://timothys-temp-converter.netlify.app",
+      "github": "https://github.com/Del1rius/temp_converter_2.git"
+    },
+    {
+      "id": 5,
+      "img": "https://i.postimg.cc/Dw5SL07h/to-do-list.png",
+      "desc": "an app to make a list of what to do",
+      "name": "to-do-list-app",
+      "netlify": "https://timothys-todo-app.netlify.app",
+      "github": "https://github.com/Del1rius/todo-App.git"
+    },
+    {
+      "id": 6,
+      "img": "https://i.postimg.cc/9XbTGcCc/array-method-exercise.png",
+      "desc": "an exercise to teach us array methods",
+      "name": "array-methods-exercise",
+      "netlify": "https://group-array-exercise.netlify.app",
+      "github": "https://github.com/Del1rius/oslins-array-exercise.git"
+    },
+    {
+      "id": 7,
+      "img": "https://i.postimg.cc/pXd0jGN1/group-exercise-store.png",
+      "desc": "a group exercise to show us how to use localStorage",
+      "name": "group-exercise-store",
+      "netlify": "https://group-ecommerce-site.netlify.app",
+      "github": "https://github.com/Del1rius/group_ecommerce.git"
+    },
+    {
+      "id": 8,
+      "img": "https://i.postimg.cc/j2BZtT8w/alienware-store.png",
+      "desc": "an attempt to clone the alienware store",
+      "name": "alienware-store",
+      "netlify": "https://timothys-alienware-store.netlify.app",
+      "github": "https://github.com/Del1rius/ecommerce_site.git"
+    },
+    {
+      "id": 9,
+      "img": "https://i.postimg.cc/Vk7QPrqd/boostrap-portfolio.png",
+      "desc": "something goes here",
+      "name": "bootstrap-portfolio",
+      "netlify": "https://timothybarrys-portfolio.netlify.app",
+      "github": "https://github.com/Del1rius/portfolio.git"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/5yB52hc3/C12-Ayesha-Galant-Class1-1.jpg",
+      "testimonial": "",
+      "name": "Ayesha Galant"
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/1ts3jCbs/C12-Cheslyn-Herman-1.jpg",
+      "testimonial": "Working alongside Timothy has been a pleasure. He is a true go-getter, someone that is goal driven and committed. Having him in my team has allowed me to learn a lot and has also allowed me to be more confident in my work.",
+      "name": "Cheslyn Herman"
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/9FnBYWFq/Rayyaan-Ethan-28-2.png",
+      "testimonial": "I have had the pleasure of working with Timothy, and I must say that he is incredibly knowledgeable. His expertise and understanding of complex concepts are truly impressive, and he brings valuable insights to any project he works on.",
+      "name": "Ethan Lesar"
+    },
+    {
+      "id": 4,
+      "img": "https://i.postimg.cc/Jz2pvWRD/C12-Luke-Evertson-1.jpg",
+      "testimonial": "Timothy Barry, the tech guy you want to know. Has a solution to every problem, an exceptional problem solver. Really good company, but knows when it is time to get serious and put in the hard work. Definitely a benefit to every company he will work for",
+      "name": "Luke Evertson"
+    },
+    {
+      "id": 5,
+      "img": "https://i.postimg.cc/0j7QRxg8/Whats-App-Image-2023-07-07-at-2-52-25-PM.jpg",
+      "testimonial": "Timothy is a very fast learner. He loves to take on the most difficult challenges and execute it to perfection. He's a very warming person to interact with.",
+      "name": "Lyle Kepkey"
+    },
+    {
+      "id": 6,
+      "img": "https://i.postimg.cc/3w4bzS49/C12-Taahirah-Ismail.jpg",
+      "testimonial": "Whenever I'm lost or struggling with something, I can always count on Timothy to come around and figure my issue out with ease. He's always willing to help when anyone is in a tough spot. Working with him is truly a pleasant experience.",
+      "name": "Taahirah Ismail"
+    }
+  ]
+}
