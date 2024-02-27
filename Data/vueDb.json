@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "img": "https://i.postimg.cc/9XbTGcCc/array-method-exercise.png",
+      "img": "https://i.ibb.co/KzMCGDK/Screenshot-2024-02-27-123305.png",
       "desc": "an exercise to teach us array methods",
       "name": "array-methods-exercise",
       "netlify": "https://group-array-exercise.netlify.app",
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "img": "https://i.postimg.cc/pXd0jGN1/group-exercise-store.png",
+      "img": "https://i.ibb.co/7NJQK7D/Screenshot-2024-02-27-123433.png",
       "desc": "a group exercise to show us how to use localStorage",
       "name": "group-exercise-store",
       "netlify": "https://group-ecommerce-site.netlify.app",
@@ -58,7 +58,7 @@
     },
     {
       "id": 8,
-      "img": "https://i.postimg.cc/j2BZtT8w/alienware-store.png",
+      "img": "https://i.ibb.co/sHmRZnB/Screenshot-2024-02-27-123620.png",
       "desc": "an attempt to clone the alienware store",
       "name": "alienware-store",
       "netlify": "https://timothys-alienware-store.netlify.app",
@@ -66,8 +66,8 @@
     },
     {
       "id": 9,
-      "img": "https://i.postimg.cc/Vk7QPrqd/boostrap-portfolio.png",
-      "desc": "something goes here",
+      "img": "https://i.ibb.co/CtLzqWk/Screenshot-2024-02-27-123744.png",
+      "desc": "my bootstrap portfolio",
       "name": "bootstrap-portfolio",
       "netlify": "https://timothybarrys-portfolio.netlify.app",
       "github": "https://github.com/Del1rius/portfolio.git"
